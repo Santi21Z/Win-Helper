@@ -1,0 +1,10 @@
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\bin\Debug\Win Helper.exe.config
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\bin\Debug\Win Helper.exe
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\bin\Debug\Win Helper.pdb
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win Helper.csprojAssemblyReference.cache
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win_Helper.Form_principal.resources
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win_Helper.Properties.Resources.resources
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win Helper.csproj.GenerateResource.cache
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win Helper.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win Helper.exe
+C:\Users\Santi\OneDrive\Escritorio\helper v2.1\Win Helper\obj\Debug\Win Helper.pdb
